@@ -7,7 +7,7 @@ import com.github.cliftonlabs.json_simple.*;
 
 public class CourseRegistrationDatabaseTest {
 
-    private static final String USERNAME = "jsnellen"; // replace this with your own account name!
+    private static final String USERNAME = "jsmith123"; // replace this with your own account name!
     
     private DAOFactory daoFactory;
     private RegistrationDAO registrationDao;
